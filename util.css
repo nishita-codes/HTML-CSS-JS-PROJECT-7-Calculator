@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+}
+/* .bg-gray{
+    background-color: gray;
+} */
+ 
+/* .mx-auto{
+    margin:auto ;
+    
+} */
+.flex{
+    display: flex;
+    align-items: center;
+}
+.flex-col{
+    flex-direction: column;
+}
